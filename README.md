@@ -1,6 +1,3 @@
 # Real-Time-Sudoku-Solver
-<video autoplay loop muted>
-  <source src="test video.gif" type="video/gif">
-</video>
-
+![Demo GIF](https://github.com/Ko/Real-Time-Sudoku-Solver/blob/master/test video.gif)
 
